@@ -1,2 +1,0 @@
-# Sigma web development course
- 
